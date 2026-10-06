@@ -38,7 +38,7 @@ Con un solo comando podés analizar uno o varios objetivos buscando XSS reflejad
 ## Instalación
 
 ```bash
-git clone https://github.com/44ghost44/Vandal.git
+git clone https://github.com/AlanNewberry/Vandal.git
 cd Vandal
 pip install -r requirements.txt
 ```
